@@ -1,6 +1,6 @@
 # doublexmas3d-debug.github.io
 
-Hello this is my firstw ebsite with me and my two cousin sin the citure.
+Hello this is my first website with me and my two cousins in the picture.
 
 
 
