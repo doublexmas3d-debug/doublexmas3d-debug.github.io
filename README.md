@@ -10,5 +10,6 @@ IGNORE ME :::[Click me to see the amazing music ](https://doublexmas3d-debug.git
 
 
 
-Ok Now i made a news website but im trying it here 
-#[Click me to see my amzing website ](https://doublexmas3d-debug.github.io/)
+Ok Now i made a news website but im trying it here
+
+[Click me to see my amzing website ]#(https://doublexmas3d-debug.github.io/)
