@@ -10,4 +10,4 @@ Hello this is my Music website where I have my Favourite songs but sadly not all
 
 
 
-Ok Now i made a news website but im trying it here [https://doubexmas3d-debug.github.io/NEWS.html](url)
+Ok Now i made a news website but im trying it here [Click me to see my amzing website ](https://doublexmas3d-debug.github.io/)
