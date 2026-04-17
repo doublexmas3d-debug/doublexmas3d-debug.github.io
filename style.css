@@ -8,7 +8,7 @@
 
 body
 {
-    background-color: rgb(251, 255, 3); 
+    background-color: #fbff03; 
     background-image: radial-gradient(#000000 1px, transparent 0);
     background-size: 40px 40px; 
     display: flex;
@@ -33,7 +33,7 @@ body
 .logo:hover 
 {
     transform: rotate(0deg) scale(1.1); 
-    box-shadow: 15px 15px 0px #ff4e00; 
+    box-shadow: 15px 15px 0px #ff0000; 
     cursor: pointer;
 }
 
@@ -55,7 +55,7 @@ h1
     border: 3px solid #000000;
     box-shadow: 5px 5px 0px #000000;
     position: absolute;
-    left: 200px;
+    left: 80px;
     top: 50px;
     transition: transform 0.1s;
 }
@@ -81,7 +81,7 @@ h1
     border: 3px solid #000000;
     box-shadow: 5px 5px 0px #000000;
     position: absolute;
-    right: 200px;
+    right: 80px;
     top: 50px;
     transition: transform 0.1s;
 }
@@ -92,6 +92,58 @@ h1
 }
 
 .songs a {
+    color: white;
+    font-size : 1rem;
+    font-family: 'Archivo Black', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.old
+{
+    display: inline-block;
+    padding: 1rem 1.5rem;
+    background-color: #ff0000;
+    border: 3px solid #000000;
+    box-shadow: 5px 5px 0px #000000;
+    position: absolute;
+    left: 80px;
+    bottom: 50px;
+    transition: transform 0.1s;
+}
+
+.old:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 7px 7px 0px #000000;
+}
+
+.old a {
+    color: white;
+    font-size : 1rem;
+    font-family: 'Archivo Black', sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.news
+{
+    display: inline-block;
+    padding: 1rem 1.5rem;
+    background-color: #ff0000;
+    border: 3px solid #000000;
+    box-shadow: 5px 5px 0px #000000;
+    position: absolute;
+    right: 80px;
+    bottom: 50px;
+    transition: transform 0.1s;
+}
+
+.news:hover {
+    transform: translate(-3px, -3px);
+    box-shadow: 7px 7px 0px #000000;
+}
+
+.news a {
     color: white;
     font-size : 1rem;
     font-family: 'Archivo Black', sans-serif;
