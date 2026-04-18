@@ -6,4 +6,4 @@ Hello this is my first website with me and my two cousins in the picture.
 
 Ok Now i made a news website but im trying it here
 
-# [Click me to see my amzing website ](https://doublexmas3d-debug.github.io/)
+# [Click me to see my amazing website ](https://BinaryNerd1010.github.io/)
