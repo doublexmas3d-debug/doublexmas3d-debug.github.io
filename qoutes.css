@@ -15,19 +15,19 @@ body {
 h2
 {
   color:white;
-  font-family: "comic sans ms", cursive, sans-serif;
+  font-family: "comic sans ms",  sans-serif;
 }
 
 ol
 {
     color:white;
-    font-family: "comic sans ms", cursive, sans-serif;
+    font-family: "comic sans ms",  sans-serif;
     font-size: medium;
 }
 
 h1
 {
   color:white;
-  font-family: "Roboto sans ms", cursive, sans-serif;
+  font-family: "Roboto sans ms",  sans-serif;
   text-align: center;
 }
